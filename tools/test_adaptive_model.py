@@ -126,8 +126,7 @@ def main():
     )
 
     # evaluate on validation set
-    _, feature_output, _ = validate_feature(cfg, valid_loader, valid_dataset, model_p, criterion_p,
-             final_output_dir, tb_log_dir)
+    _, feature_output, _ = validate_feature(cfg, valid_loader, valid_dataset, model_p, criterion_p, final_output_dir, tb_log_dir)
              
     feature_file = os.path.join(final_output_dir, 'feature.npy')
     np.save(feature_file, feature_output)

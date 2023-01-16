@@ -119,7 +119,7 @@ def main():
                              3,
                              cfg.MODEL.IMAGE_SIZE[1],
                              cfg.MODEL.IMAGE_SIZE[0]))
-    writer_dict['writer'].add_graph(model_p, (dump_input, ), verbose=False)
+    #writer_dict['writer'].add_graph(model_p, (dump_input, ), verbose=False)
     
     logger.info(get_model_summary(model_p, dump_input))
     
