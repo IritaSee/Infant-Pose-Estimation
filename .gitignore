@@ -47,4 +47,12 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+*.npy
+*.pth
+# dataset
+/data
 
+# large training result
+/log*
+/output*
+infant_dataset.zip
