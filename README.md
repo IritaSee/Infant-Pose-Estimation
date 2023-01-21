@@ -4,6 +4,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+---
+
 Codes and experiments for the following paper: 
 
 Xiaofei Huang, Nihang Fu, Shuangjun Liu, Sarah Ostadabbas, “Invariant representation learning for infant pose estimation withsmall data,” in IEEE International Conference on Automatic Face and Gesture Recognition (FG), Dec. 2021
