@@ -1,6 +1,6 @@
 # Fine-tuned Domain-adapted Infant Pose (FiDIP)
 
-<a target="_blank" href="https://colab.research.google.com/github/dhupee/Infant-Pose-Estimation/blob/master/Main.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/IritaSee/Infant-Pose-Estimation/blob/master/Main.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
