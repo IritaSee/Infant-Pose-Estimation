@@ -56,3 +56,4 @@ Thumbs.db
 /log*
 /output*
 infant_dataset.zip
+*.zip
